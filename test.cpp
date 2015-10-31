@@ -90,6 +90,6 @@ void Convert10tox(int a, int b)
 
 int main()
 {
-	Convert10tox(2333,8);
+	Convert10tox(2333,16);
 	return 0;
 }
