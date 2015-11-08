@@ -91,6 +91,6 @@ void Convert10tox(int a, int b)
 int main()
 {
 	Convert10tox(2333,9);
-	//绗洓娆′慨鏀逛簡
+	//多进制转换
 	return 0;
 }
